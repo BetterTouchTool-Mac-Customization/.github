@@ -20,7 +20,7 @@ The software supports a wide range of devices and actions, including window snap
 
 BetterTouchTool is fully compatible with macOS Sonoma, Ventura, Monterey, and older versions. It runs efficiently on both Intel and Apple Silicon Macs, making it a must-have tool for power users, designers, developers, and anyone looking to enhance their Mac experience.
 
-![BetterTouchTool Interface](https://static.macupdate.com/screenshots/352501/m/bettertouchtool-screenshot.png)
+![BetterTouchTool Interface](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8JrnBClb-DHQuNkf1c_sFG2h9h3yBTl1_Dg&s)
 
 ---
 
